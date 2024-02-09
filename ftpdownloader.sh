@@ -1,3 +1,9 @@
+#!/bin/bash
+# Purpose: Download New File from FTP server
+# Author: mabedini <abedini1984@yahoo.com>
+# Note : FTP server anonymous log in Acctive.
+# Last updated on : 2024-02-09
+# -----------------------------------------------                                             
 # make Directory to save Files
 echo " #####shell checking your needed Directori#####"
 
