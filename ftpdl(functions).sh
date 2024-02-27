@@ -10,8 +10,8 @@ dl_file () {
 cd dl
 for i in `cat mylist`;do wget -i ftp://127.0.0.1/$i;done
 }
-sleep 5
 echo "Get filec for download"
+sleep 5
 ftp_get
 sleep 3
 echo "Start DL"
